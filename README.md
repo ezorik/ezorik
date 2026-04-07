@@ -60,8 +60,8 @@
     <a href="mailto:[zaooen@qq.com]">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <!-- <a href="[你的个人博客、知乎、掘金等链接]">
+    <a href="[https://b.ziv.pp.ua]">
       <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Blog" />
-    </a> -->
+    </a>
   </p>
 </div>
