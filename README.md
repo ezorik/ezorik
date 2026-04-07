@@ -18,9 +18,9 @@
     我相信技术的力量不仅在于构建系统，更在于创造价值。
   </p>
   <p>
-    🌱 目前正在深入学习: <b>[你要学的技术，如 架构设计, Go, 算法]</b><br>
-    💬 乐于交流关于: <b>[你擅长的领域，如 前端开发, Python, 开源]</b><br>
-    ⚡ 隐藏技能: <b>[有趣的特长，比如：看报错提示就能猜出 Bug]</b>
+    🌱 目前正在深入学习: <b>[架构设计, Go, 算法]</b><br>
+    💬 乐于交流关于: <b>[前端开发, Python, 开源]</b><br>
+    ⚡ 隐藏技能: <b>[看报错提示就能猜出 Bug]</b>
   </p>
 </div>
 
@@ -57,7 +57,7 @@
 <div align="center">
   <h2>🌐 找到我 (Connect with me)</h2>
   <p>
-    <a href="mailto:[你的邮箱地址，例如：abc@gmail.com]">
+    <a href="mailto:[你的邮箱地址，例如：zaooen@qq.com]">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="[你的个人博客、知乎、掘金等链接]">
