@@ -57,7 +57,7 @@
 <div align="center">
   <h2>🌐 找到我 (Connect with me)</h2>
   <p>
-    <a href="mailto:[zaooen@qq.com]">
+    <a href="mailto:[ezorin@foxmail.com]">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://b.ziv.pp.ua">
